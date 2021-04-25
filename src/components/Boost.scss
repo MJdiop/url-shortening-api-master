@@ -1,0 +1,14 @@
+.Boost {
+  text-align: center;
+  background: #3a3053 url('../images/bg-boost-desktop.svg') center;
+
+  h1 {
+    color: #fff;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .Boost {
+    background: #3a3053 url('../images/bg-boost-mobile.svg') center / cover;
+  }
+}

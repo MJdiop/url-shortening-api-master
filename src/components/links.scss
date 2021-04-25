@@ -1,0 +1,52 @@
+@import './var';
+
+// section {
+//   display: none;
+// }
+
+.Links {
+  margin-top: 9rem;
+  position: absolute;
+  background: #fff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 83.5%;
+  border-radius: 6px;
+  padding: 0 1.5rem;
+
+  .link {
+    // margin: 0 100px 0 auto;
+    color: $Cyan;
+  }
+
+  button {
+    border-radius: 8px;
+    padding: 8px 18px;
+    position: relative;
+    top: -12px;
+  }
+}
+
+@media screen and (max-width: 950px) {
+  .Links {
+    flex-direction: column;
+    margin-top: 11rem;
+    padding: 0.3rem 0;
+    width: 57%;
+    text-align: center;
+    left: 22%;
+
+    span {
+      margin: 0.5rem 0;
+    }
+
+    .domaine {
+      border-bottom: 1px solid $Gray;
+      padding: 10px 0;
+    }
+    button {
+      padding: 8px 110px;
+    }
+  }
+}

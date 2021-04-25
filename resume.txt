@@ -1,0 +1,17 @@
+Votre défi est de vous intégrer à l'API de code source pour créer des URL raccourcies et les afficher comme dans les dessins.
+
+Vous pouvez utiliser n'importe quel framework/bibliothèque JavaScript en amont, comme React ou Vue. Vous avez également un contrôle total sur les paquets que vous utilisez pour faire des choses comme des requêtes HTTP ou le style de votre projet.
+
+Vos utilisateurs devraient pouvoir le faire :
+
+visualiser la mise en page optimale du site en fonction de la taille de l'écran de leur appareil✅
+Raccourcir toute URL valide✅
+Voir une liste de leurs liens raccourcis, même après avoir rafraîchi le navigateur
+Copier le lien raccourci dans leur presse-papiers en un seul clic✅
+Recevoir un message d'erreur lors de la soumission du formulaire si :
+Le champ de saisie est vide✅
+
+Téléchargez le code de démarrage et parcourez le fichier README.md. Vous obtiendrez ainsi des informations plus détaillées sur le projet. Le fichier style-guide.md est l'endroit où vous trouverez les couleurs, les polices de caractères, etc.
+
+Vous voulez de l'aide pour relever le défi ? Rejoignez notre communauté Slack et posez vos questions dans le canal d'aide.
+
